@@ -7,6 +7,7 @@ The primary objective of this project is to conduct a comprehensive Customer Seg
 - Utilize K-means clustering to categorize customers into distinct segments.
 - Segment customers into 4 main categories and further divide them into 7 sub-segments.
  - To define 7 sub-segments, assign rankings ranging from 1 to 4 to each R F M Clusters, where a lower Recency value is considered better, and higher values for Frequency and Monetary are preferred. It means we assign higher R-scores to clusters with smaller mean Recency values, and lower F-scores and M-scores to clusters with smaller mean values.
+   
 ![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/5ed90893-bb0c-4169-9d99-a1ffa324e98e)
 ![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/0b7b8fce-9d5c-44ce-bfc6-31994fc7544c)
 ![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/505205c7-4738-479c-832d-2a79ba64a1b9)
