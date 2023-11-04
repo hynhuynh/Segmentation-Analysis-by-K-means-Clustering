@@ -9,7 +9,7 @@ The primary objective of this project is to conduct a comprehensive Customer Seg
  - To define 7 sub-segments, assign rankings ranging from 1 to 4 to each R F M Clusters, where a lower Recency value is considered better, and higher values for Frequency and Monetary are preferred. It means we assign higher R-scores to clusters with smaller mean Recency values, and lower F-scores and M-scores to clusters with smaller mean values.
    
 ![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/5ed90893-bb0c-4169-9d99-a1ffa324e98e)
-![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/30ae04b3-9ae4-4cb7-a016-3d222ae55e8d)
+![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/d2292fec-5ddc-4fec-8bfa-b027616bcc8d)
 ![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/505205c7-4738-479c-832d-2a79ba64a1b9)
 
 ## 3. Result:
