@@ -3,9 +3,9 @@
 The primary objective of this project is to conduct a comprehensive Customer Segmentation Analysis for Amazon's retail sector based on the shopping behavior of customers. This segmentation is crucial for identifying specific customer groups to tailor suitable solutions for enhancing sales revenue and customer retention rate.
 
 ## 2. Method:
-Apply the RFM (Recency, Frequency, Monetary) model to evaluate each customer's transaction history.
-Utilize K-means clustering to categorize customers into distinct segments.
-Segment customers into 4 main categories and further divide them into 7 sub-segments.
+- Apply the RFM (Recency, Frequency, Monetary) model to evaluate each customer's transaction history.
+- Utilize K-means clustering to categorize customers into distinct segments.
+- Segment customers into 4 main categories and further divide them into 7 sub-segments.
  - To define 7 sub-segments, assign rankings ranging from 1 to 4 to each R F M Clusters, where a lower Recency value is considered better, and higher values for Frequency and Monetary are preferred. It means, we assign higher R-scores to clusters with smaller mean Recency values, and lower F-scores and M-scores to clusters with smaller mean values.
 ## 3. Result:
 4 main customer segments with distinct purchasing behaviors:
