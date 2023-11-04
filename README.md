@@ -6,7 +6,7 @@ The primary objective of this project is to conduct a comprehensive Customer Seg
 Apply the RFM (Recency, Frequency, Monetary) model to evaluate each customer's transaction history.
 Utilize K-means clustering to categorize customers into distinct segments.
 Segment customers into 4 main categories and further divide them into 7 sub-segments.
-
+ - To define 7 sub-segments, assign rankings ranging from 1 to 4 to each R F M Clusters, where a lower Recency value is considered better, and higher values for Frequency and Monetary are preferred. It means, we assign higher R-scores to clusters with smaller mean Recency values, and lower F-scores and M-scores to clusters with smaller mean values.
 ## 3. Result:
 4 main customer segments with distinct purchasing behaviors:
  - Cluster 0: Named "Need Attention": who purchased often and spent big amounts, but haven't purchased recently and are about to lose.
@@ -31,4 +31,5 @@ Create a seamless onboarding process and offer new customer discounts to make th
 ![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/90710c53-7d6f-4cff-9b6e-71f6292cd52d)
 
 Combine all segments together:
+
 ![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/9980f303-efe5-401f-b29c-a766dc1f35f1)
