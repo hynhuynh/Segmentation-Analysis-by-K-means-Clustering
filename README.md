@@ -5,7 +5,7 @@ The primary objective of this project is to conduct a comprehensive Customer Seg
 ## 2. Method:
 - Apply the RFM (Recency, Frequency, Monetary) model to evaluate each customer's transaction history.
 - Utilize K-means clustering to categorize customers into distinct segments. Segment customers into 4 main categories and further divide them into 7 sub-segments.
- + To define 7 sub-segments, assign rankings ranging from 1 to 4 to each R F M Clusters, where a lower Recency value is considered better, and higher values for Frequency and Monetary are preferred. It means we assign higher R-scores to clusters with smaller mean Recency values, and lower F-scores and M-scores to clusters with smaller mean values.
+- To define 7 sub-segments, assign rankings ranging from 1 to 4 to each R F M Clusters, where a lower Recency value is considered better, and higher values for Frequency and Monetary are preferred. It means we assign higher R-scores to clusters with smaller mean Recency values, and lower F-scores and M-scores to clusters with smaller mean values.
    
 ![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/5ed90893-bb0c-4169-9d99-a1ffa324e98e)
 ![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/d2292fec-5ddc-4fec-8bfa-b027616bcc8d)
@@ -19,7 +19,7 @@ The primary objective of this project is to conduct a comprehensive Customer Seg
 - Visualization: Create visualizations to represent customer segments.
 - Interpretation: Understand the characteristics and preferences of each segment.
   
-## 3. Result:
+## 4. Result:
 4 main customer segments with distinct purchasing behaviors:
  - Cluster 0: Named "Need Attention": who purchased often and spent big amounts, but haven't purchased recently and are about to lose.
  - Cluster 1: Named "Lost Customer": customers who haven't visited the shop for a long time and don't spend much money in this shop.
