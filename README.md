@@ -23,11 +23,11 @@ Besides this, we can identify fine-grained segments:
  - New Customers: Bought more recently, but not often, and haven’t spent much.
  - At Risk: Spent above average monetary values, purchased often but a long time ago.
  - Lost: Lowest recency, frequency, and monetary values.
+   
 There is a significant portion of customers (37%) who are at risk and about to churn. On the positive side, 32% of our customer base falls into the categories of champions and potential loyalists.
 Focus on retaining the "At Risk" customers while leveraging the loyalty and high-value potential of the "Champions" and "Potential Loyalists" to drive sales and growth.
 Create a seamless onboarding process and offer new customer discounts to make their initial experience memorable and keep them coming back.
 ![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/ac6bf455-4a98-4d8e-8a69-af3289d0638c)
-![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/385ddda6-c913-4073-b622-a7069ea0e8e1)
-
-Combine all segment and more together:
+![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/90710c53-7d6f-4cff-9b6e-71f6292cd52d)
+Combine all segments together:
 ![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/9980f303-efe5-401f-b29c-a766dc1f35f1)
