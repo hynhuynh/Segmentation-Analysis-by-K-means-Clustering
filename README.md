@@ -15,8 +15,16 @@ Segment customers into 4 main categories and further divide them into 7 sub-segm
  - Cluster 3: Named "New Customer": who bought more recently, but not often and haven't spent much.
 
 ![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/cef9dbae-2007-45b6-bfb8-5dd745c124ba)
-![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/50c2be82-1ca3-4f68-a964-915b71e2fa5d)
 
-![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/9980f303-efe5-401f-b29c-a766dc1f35f1)
+Besides this, we can identify fine-grained segments:
+ - Champions: Bought recently, buy often, and spend the most.
+ - Potential Loyalists: Spend good money. Above average recency, and frequency. Core customers.
+ - Big Spender: Spend the most.
+ - New Customers: Bought more recently, but not often, and haven’t spent much.
+ - At Risk: Spent above average monetary values, purchased often but a long time ago.
+ - Lost: Lowest recency, frequency, and monetary values.
+
 ![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/ac6bf455-4a98-4d8e-8a69-af3289d0638c)
 ![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/d418db2d-ac37-4160-8265-c04e9d68f93e)
+
+![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/9980f303-efe5-401f-b29c-a766dc1f35f1)
