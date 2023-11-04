@@ -29,5 +29,6 @@ Focus on retaining the "At Risk" customers while leveraging the loyalty and high
 Create a seamless onboarding process and offer new customer discounts to make their initial experience memorable and keep them coming back.
 ![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/ac6bf455-4a98-4d8e-8a69-af3289d0638c)
 ![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/90710c53-7d6f-4cff-9b6e-71f6292cd52d)
+
 Combine all segments together:
 ![image](https://github.com/hynhuynh/Segmentation-Analysis-by-K-means-Clustering/assets/74954965/9980f303-efe5-401f-b29c-a766dc1f35f1)
